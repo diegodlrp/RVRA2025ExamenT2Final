@@ -1,5 +1,4 @@
-
-
+Para desabilitar la detección horizontal, en el objeto "XR" Origen, en el componente "AR Plane Manager" ajuste el "Direction Mode" a solo vertical
 
 Primero he duplicado el último boton en el scroll de objetos.
 He generado un prefab simple de un cubo 3d. He Añadido mi prefab "CuboDiego" al ObjectSpawner de XR Origen
