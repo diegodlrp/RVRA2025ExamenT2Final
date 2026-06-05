@@ -9,3 +9,5 @@ Se ha añadido al scrip un movimiento perpetuo hacia la derecha en el eje del cu
 Se ha añadido un nuevo boton a la interfaz gui
 Se le ha añadido una etiqueta única al prefab("CuboDiego")
 Se ha modificado el scrip de ejemplo de los materiales del ejercicio anterior para que el color se escoja de forma aleatoria y que se aplique a todos los objetos con las etiqueta("CuboDiego")
+
+En el video se aplica el volumen rojo por defecto, Se soluciono en el proyecto
