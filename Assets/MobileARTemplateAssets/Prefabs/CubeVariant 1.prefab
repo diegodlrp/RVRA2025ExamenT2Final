@@ -18,7 +18,11 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 1e7f6f70c50e3864789127de6b014097, type: 2}
     - target: {fileID: 613292779795284151, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_Name
-      value: CubeVariant
+      value: CubeVariant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 613292779795284151, guid: ebd7292e888c84f05924605e51048072, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 776242965031131868, guid: ebd7292e888c84f05924605e51048072, type: 3}
       propertyPath: m_Convex
